@@ -1,6 +1,458 @@
 {
-  "shows": {},
+  "shows": {
+    "16868": {
+      "id": "16868",
+      "name": "山本康平の忍び道",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=16868&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/e04d2498ce5d415fa178053f735714ab_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.012Z"
+    },
+    "36261": {
+      "id": "36261",
+      "name": "Lウラ仮面ライダー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=36261&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/7e3e07df6d9d4409a4c541ace437ba92_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.011Z"
+    },
+    "49199": {
+      "id": "49199",
+      "name": "仮面ライダーギーツ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=49199&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/migration20240308/images/movie/79f9eecf26c948008a2bb85621de7841_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.712Z"
+    },
+    "49226": {
+      "id": "49226",
+      "name": "仮面ライダーギーツ　オーディオ／ビジュアルコメンタリー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=49226&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/migration20240308/images/movie/f28da560549946bdaa0daa039eaac95f_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.713Z"
+    },
+    "49597": {
+      "id": "49597",
+      "name": "王様戦隊キングオージャー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=49597&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/migration20240308/images/movie/102b9de38a9949858eeb8f107e82551b_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.576Z"
+    },
+    "50142": {
+      "id": "50142",
+      "name": "仮面ライダーガッチャード",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50142&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/migration20240308/images/movie/8f15c11d118a4bbd95b1aa5a144ef2d7_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.711Z"
+    },
+    "50158": {
+      "id": "50158",
+      "name": "仮面ライダーガッチャード　オーディオコメンタリーバージョン",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50158&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/04ab310fb5fd4cc2ab7cad73117a3890_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.711Z"
+    },
+    "50261": {
+      "id": "50261",
+      "name": "王様戦隊キングオージャー　オーディオコメンタリーバージョン",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50261&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/migration20240308/images/movie/b76b079e88bc41c892e745f0d0bcbac4_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.577Z"
+    },
+    "50290": {
+      "id": "50290",
+      "name": "仮面ライダーガッチャードＶＳ仮面ライダーレジェンド",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50290&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/migration20240308/images/movie/bbb0d7d57f7447619d04225a61f97411_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.712Z"
+    },
+    "50492": {
+      "id": "50492",
+      "name": "爆上戦隊ブンブンジャー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50492&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/migration20240308/images/movie/59dc3988e77c4751b31b052b04baaa42_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.574Z"
+    },
+    "50501": {
+      "id": "50501",
+      "name": "爆上戦隊ブンブンジャー　オーディオコメンタリーバージョン",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50501&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/86bb569f63264887b18b08d2bb61c216_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.575Z"
+    },
+    "50733": {
+      "id": "50733",
+      "name": "仮面ライダーガヴ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50733&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/862c40391cd1472b89e774dea1b84877_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.710Z"
+    },
+    "50734": {
+      "id": "50734",
+      "name": "「仮面ライダーガッチャード」最終話「キミと僕のCHEMY×STORY」ディレクターズカット版",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50734&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/23bd7a72660d49d295b441a2b0747e82_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.711Z"
+    },
+    "50738": {
+      "id": "50738",
+      "name": "【10周年記念】烈車戦隊トッキュウジャー スペシャルオーディオコメンタリー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50738&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/712c823613e7408b9b9e459ca3a3e9b3_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.576Z"
+    },
+    "50745": {
+      "id": "50745",
+      "name": "王様戦隊キングオージャー（キョウリュウジャー編）【ディレクターズカット版】",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50745&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/60d6e504067c4df9b8cd49dec9c774ae_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.576Z"
+    },
+    "50761": {
+      "id": "50761",
+      "name": "仮面ライダーガヴ　オーディオコメンタリーバージョン",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50761&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/9d1d459c28654730867aecf839376c69_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.711Z"
+    },
+    "50765": {
+      "id": "50765",
+      "name": "海賊戦隊ゴーカイジャー　オーディオコメンタリーバージョン",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50765&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/8befeda10c3e445b8f1f6acb28f97805_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.575Z"
+    },
+    "50772": {
+      "id": "50772",
+      "name": "ナンバーワン戦隊ゴジュウジャー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50772&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/38b83a58123a4f42a324976e8de3bae9_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.573Z"
+    },
+    "50774": {
+      "id": "50774",
+      "name": "ナンバーワン戦隊ゴジュウジャー　オーディオコメンタリーバージョン",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50774&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/2860efe202444c1784bf7fec034c2cb8_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.574Z"
+    },
+    "50777": {
+      "id": "50777",
+      "name": "ゴジュウジャー補ジュウ計画　ナンバーワン懺悔室",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50777&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/17e10b3ee67746898751bb5d0f2e506d_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.200Z"
+    },
+    "50779": {
+      "id": "50779",
+      "name": "ガヴっとアニメ！　Ｓｗｅｅｔｙ　Ｄａｙｓ　～おかしな日常～",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50779&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/6ad1ba7dc59544708c6cb060012d1a08_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.208Z"
+    },
+    "50784": {
+      "id": "50784",
+      "name": "『ワンチャンNo.1』ナンバーワン戦隊ゴジュウジャーのキャストバラエティ番組",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50784&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/61f3298509b24b36985f01569ce084e0_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.012Z"
+    },
+    "50785": {
+      "id": "50785",
+      "name": "仮面ライダーガッチャード　ファイナルステージ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50785&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/6717a9125fa643949185648724c0dde0_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.415Z"
+    },
+    "50795": {
+      "id": "50795",
+      "name": "爆上戦隊ブンブンジャーＶＳキングオージャー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50795&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/353b190c39e743a797925e8d0416b8e1_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.415Z"
+    },
+    "50805": {
+      "id": "50805",
+      "name": "死神遣いの事件帖　終（ファイナル）",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50805&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/7618a8e3a07c4b7fb4e63733d56afaa4_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.414Z"
+    },
+    "50812": {
+      "id": "50812",
+      "name": "Ｇｉｒｌ‘ｓ　Ｓｕｍｍｅｒ　Ｖａｃａｔｉｏｎ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50812&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/8b53bdf8f54e472083521ffc4498483c_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.016Z"
+    },
+    "50813": {
+      "id": "50813",
+      "name": "仮面ライダーゼッツ　ＳＥＲＩＥＳ　ＯＦ　ＳＩＳＴＥＲ’Ｓ　ＳＵＢＳＴＯＲＹ　エージェント美浪",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50813&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/233b53a1c9d54927848d058b0bcbd983_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.202Z"
+    },
+    "50814": {
+      "id": "50814",
+      "name": "「仮面ライダーガヴ」キャスト特別メッセージ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50814&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/39ba540f83654a038145c875ff244f96_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.013Z"
+    },
+    "50815": {
+      "id": "50815",
+      "name": "仮面ライダーゼッツ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50815&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/68ff2115de5e46d59b277deff5a53692_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.710Z"
+    },
+    "50816": {
+      "id": "50816",
+      "name": "仮面ライダーゼッツ　オーディオコメンタリーバージョン",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50816&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/70f951c165944398a36abeb6fec83927_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:47.710Z"
+    },
+    "50817": {
+      "id": "50817",
+      "name": "超英雄祭　ＫＡＭＥＮ　ＲＩＤＥＲ　×　ＳＵＰＥＲ　ＳＥＮＴＡＩ　ＬＩＶＥ　＆　ＳＨＯＷ　２０２５　",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50817&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/6ae680d2faf64da9a8d79dcd618a3626_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.414Z"
+    },
+    "50818": {
+      "id": "50818",
+      "name": "ガールズリミックス　ｉｎハロウィンパーティー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50818&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/2e9b60c3e102442fbabe8c5cc43a6a19_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.207Z"
+    },
+    "50819": {
+      "id": "50819",
+      "name": "クランクアップ！！仮面ライダーガヴ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50819&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/83dda138dbbe42be9ad571a74fc4710c_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.012Z"
+    },
+    "50820": {
+      "id": "50820",
+      "name": "仮面ライダーヴラム　ルートストマック",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50820&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/e64049973a754be7a9563383aec74e3e_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.206Z"
+    },
+    "50823": {
+      "id": "50823",
+      "name": "映画『仮面ライダーガヴ　お菓子の家の侵略者』",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50823&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/02cd1d327a13452f80a7a791e7ed0d28_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.414Z"
+    },
+    "50824": {
+      "id": "50824",
+      "name": "映画『ナンバーワン戦隊ゴジュウジャー　復活のテガソード』",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50824&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/d280da16f8e34b54b6d9365731618e7b_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.413Z"
+    },
+    "50826": {
+      "id": "50826",
+      "name": "仮面ライダーアインズ　ｗｉｔｈガールズリミックス",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50826&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/bd341ad9d5de4af7901f5148f674e9a0_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.202Z"
+    },
+    "50827": {
+      "id": "50827",
+      "name": "爆上戦隊ブンブンジャー　ファイナルライブツアー２０２５",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50827&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/ea807b5299184f1098ed8d7122f09b15_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.413Z"
+    },
+    "50828": {
+      "id": "50828",
+      "name": "仮面ライダーガヴ　おかしなお菓子なティーパーティー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50828&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/dd97e69b56ab40608238a4156dc79c13_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.412Z"
+    },
+    "50829": {
+      "id": "50829",
+      "name": "仮面ライダーガヴ　ギルティ・パルフェ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50829&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/9a47db739eee4100a9580eef7a6d7efd_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.407Z"
+    },
+    "50830": {
+      "id": "50830",
+      "name": "風都探偵　仮面ライダースカルの肖像",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50830&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/12956235470340b2a433aaac8bfc3fe0_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:59.411Z"
+    },
+    "50831": {
+      "id": "50831",
+      "name": "ゼッツあにめ　ドリームアルバイターばく",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50831&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/7b1315b5101b49dbbfe3cf6a7974ee69_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.204Z"
+    },
+    "50832": {
+      "id": "50832",
+      "name": "仮面ライダーゼッツ　ＳＥＲＩＥＳ　ＯＦ　ＳＩＳＴＥＲ’Ｓ　ＳＵＢＳＴＯＲＹ　エージェント美浪　 Ｍａｋｉｎｇ　ｏｆ　Ｍｉｎａｍｉ’ｓ",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50832&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/0b0cb06d4d4c4dd7854002591bcec1f9_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.205Z"
+    },
+    "50833": {
+      "id": "50833",
+      "name": "快盗戦隊ルパンレンジャーＶＳ警察戦隊パトレンジャー　オーディオコメンタリーバージョン",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50833&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/5076a84fb11e4c6f98614f4f482cd4b9_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:49:53.573Z"
+    },
+    "50834": {
+      "id": "50834",
+      "name": "東映のヒミツぜんぶバラしまスペシャル！～おや、誰か来たようだ２０２５",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50834&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/b7683a03dcf940ca96701f9c15fc7b76_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.011Z"
+    },
+    "50836": {
+      "id": "50836",
+      "name": "フォルティクス　配信！推しを継ぐもの",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50836&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/7bb845101dbf4f50bfdecf0d0ee05c40_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.203Z"
+    },
+    "50839": {
+      "id": "50839",
+      "name": "「仮面ライダーリバイス」五十嵐三兄妹スペシャル座談会",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50839&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/1a4629f1138743638dd85b932c8876b4_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.009Z"
+    },
+    "50844": {
+      "id": "50844",
+      "name": "超宇宙刑事ギャバン　インフィニティ　クランクイン直前インタビュー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50844&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/9c021ca5cf6c43d4b28ec5524d690468_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.009Z"
+    },
+    "50845": {
+      "id": "50845",
+      "name": "全東映特撮 あっち向いてホイ野球選手権大会",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50845&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/0b7c86e8ef354e70b2dda97df9817182_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:11.008Z"
+    },
+    "50846": {
+      "id": "50846",
+      "name": "超宇宙刑事ギャバン　インフィニティ　補完捜査　ギャバンの非番",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50846&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/f32da5a384434fc18c712e6fdce240ea_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-01T10:50:05.201Z"
+    }
+  },
   "lastFullScan": "2026-03-01T08:54:11.790Z",
   "totalShows": 0,
-  "totalEpisodes": 0
+  "totalEpisodes": 0,
+  "lastUpdate": "2026-03-01T10:50:11.660Z"
 }
