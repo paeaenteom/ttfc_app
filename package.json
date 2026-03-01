@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "東映特撮ファンクラブ PC Viewer with Discord Rich Presence",
   "main": "src/main.js",
-  "author": "TTFC Viewer",
+  "author": "paeaenteom",
   "license": "MIT",
   "scripts": {
     "start": "electron .",
