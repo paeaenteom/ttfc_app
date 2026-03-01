@@ -1,0 +1,77 @@
+{
+  "name": "ttfc-viewer",
+  "version": "2.0.0",
+  "description": "東映特撮ファンクラブ PC Viewer with Discord Rich Presence",
+  "main": "src/main.js",
+  "author": "TTFC Viewer",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "build": "electron-builder --win",
+    "build:nsis": "electron-builder --win nsis",
+    "build:portable": "electron-builder --win portable",
+    "build:all": "electron-builder --win nsis portable",
+    "publish": "electron-builder --win --publish always",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "build": {
+    "appId": "com.ttfc.viewer",
+    "productName": "東映特撮ファンクラブ",
+    "protocols": [
+      {
+        "name": "TTFC Viewer",
+        "schemes": ["ttfc"]
+      }
+    ],
+    "copyright": "Copyright © 2025 TTFC Viewer",
+    "directories": {
+      "output": "dist",
+      "buildResources": "assets"
+    },
+    "files": [
+      "src/**/*",
+      "assets/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "assets/icon.ico",
+      "artifactName": "TTFC-Viewer-Setup-${version}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "installerIcon": "assets/icon.ico",
+      "uninstallerIcon": "assets/icon.ico",
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "東映特撮ファンクラブ"
+    },
+    "portable": {
+      "artifactName": "TTFC-Viewer-Portable-${version}.${ext}"
+    },
+    "publish": {
+      "provider": "github",
+      "owner": "paeaenteom",
+      "repo": "ttfc_app",
+      "releaseType": "release"
+    }
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "electron-store": "^8.1.0",
+    "electron-updater": "^6.1.7",
+    "electron-log": "^5.1.1"
+  },
+  "devDependencies": {
+    "electron": "^28.1.0",
+    "electron-builder": "^24.9.1"
+  }
+}
