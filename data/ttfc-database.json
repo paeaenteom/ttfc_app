@@ -1,6 +1,6 @@
 {
   "lastFullScan": "2026-03-01T14:22:01.363Z",
-  "lastUpdate": "2026-03-01T14:22:01.363Z",
+  "lastUpdate": "2026-03-02T04:11:20.626Z",
   "totalShows": 958,
   "totalEpisodes": 10331,
   "shows": {
@@ -62141,6 +62141,15 @@
       "episodeCount": 2,
       "lastEpisode": "ナンバーワン戦隊ゴジュウジャースペシャルトーク～横アリは俺の獲物だ～",
       "scannedAt": "2026-03-01T12:50:41.636Z"
+    },
+    "50848": {
+      "id": "50848",
+      "name": "ケイト リップモンスター×仮面ライダー",
+      "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50848&contentType=0",
+      "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/4b67e89c8502405ab2bdff74279976d4_sm",
+      "episodeCount": 0,
+      "episodes": [],
+      "scannedAt": "2026-03-02T01:39:30.387Z"
     }
   }
 }
