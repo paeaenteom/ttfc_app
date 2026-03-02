@@ -1,6 +1,6 @@
 {
   "lastFullScan": "2026-03-01T14:22:01.363Z",
-  "lastUpdate": "2026-03-02T04:11:20.626Z",
+  "lastUpdate": "2026-03-02T07:04:41.729Z",
   "totalShows": 958,
   "totalEpisodes": 10331,
   "shows": {
@@ -62147,9 +62147,36 @@
       "name": "ケイト リップモンスター×仮面ライダー",
       "url": "https://pc.tokusatsu-fc.jp/contents?contentId=50848&contentType=0",
       "thumbnail": "https://d2uurexa61su9.cloudfront.net/images/movie/4b67e89c8502405ab2bdff74279976d4_sm",
-      "episodeCount": 0,
-      "episodes": [],
-      "scannedAt": "2026-03-02T01:39:30.387Z"
+      "episodeCount": 5,
+      "episodes": [
+        {
+          "number": "",
+          "title": "ケイト リップモンスター×仮面ライダー「HENSHIN THE FIRST」本編",
+          "full": "ケイト リップモンスター×仮面ライダー「HENSHIN THE FIRST」本編"
+        },
+        {
+          "number": "",
+          "title": "ケイト リップモンスター×仮面ライダー「Fashion Side Story」仮面ライダーアインズ/天翔天音 MIX編",
+          "full": "ケイト リップモンスター×仮面ライダー「Fashion Side Story」仮面ライダーアインズ/天翔天音 MIX編"
+        },
+        {
+          "number": "",
+          "title": "ケイト リップモンスター×仮面ライダー「Fashion Side Story」天翔天音編",
+          "full": "ケイト リップモンスター×仮面ライダー「Fashion Side Story」天翔天音編"
+        },
+        {
+          "number": "",
+          "title": "ケイト リップモンスター×仮面ライダー「Fashion Side Story」仮面ライダーアインズ編",
+          "full": "ケイト リップモンスター×仮面ライダー「Fashion Side Story」仮面ライダーアインズ編"
+        },
+        {
+          "number": "",
+          "title": "ケイト リップモンスター×仮面ライダー「Behind The Scenes」",
+          "full": "ケイト リップモンスター×仮面ライダー「Behind The Scenes」"
+        }
+      ],
+      "scannedAt": "2026-03-02T07:04:41.717Z",
+      "lastEpisode": "ケイト リップモンスター×仮面ライダー「Behind The Scenes」"
     }
   }
 }
